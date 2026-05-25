@@ -1,0 +1,11 @@
+Agricultor:Encargado de cosechar la papa.
+Cotero: Encargado de subir o bajar la papa a los medio de distribución
+Transportador: Conduce el medio de distribución desde los cultivos hasta un centro de acoplo o un punto de venta.
+Bodeguero: Encargado de almacenar la papa
+Comerciante: Quien compra grandes volúmenes de papa.
+Comprador final: Quien compra poco volumen de papa.
+consumidor final: Quien compra la papa para no revenderla.
+Ministerio de agricultura y dearrollo rural.
+Fondo nacional de la papa (ley 1707 de 2014) Apoya
+Ministerio de Agricultura: (ley 2378 de 2024) Regulador de precio
+Super intendencia de insdustria y comercio: 
