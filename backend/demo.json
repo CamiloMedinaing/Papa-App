@@ -1,6 +1,65 @@
-Guardar dato s 
-
-Yo como administrador necesito una API que reciban un json con los datos 
-de un agricultor y los guarde en una base de datos postgresql
-
-1. Crear un backen en python
+[
+  {
+    "id": 1,
+    "cedula": "1023456789",
+    "nombre": "Carlos Andrés Ramírez",
+    "area": 12.5,
+    "cultivo": "Papa Pastusa",
+    "inversion": 8500,
+    "fecha": "2026-03-15",
+    "ubicacion_cultivo": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-74.1023, 4.6589],
+          [-74.1010, 4.6589],
+          [-74.1010, 4.6601],
+          [-74.1023, 4.6601],
+          [-74.1023, 4.6589]
+        ]
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "cedula": "1098765432",
+    "nombre": "María Fernanda López",
+    "area": 8.3,
+    "cultivo": "Papa Criolla",
+    "inversion": 6200,
+    "fecha": "2026-04-02",
+    "ubicacion_cultivo": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-73.9875, 5.1234],
+          [-73.9861, 5.1234],
+          [-73.9861, 5.1248],
+          [-73.9875, 5.1248],
+          [-73.9875, 5.1234]
+        ]
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "cedula": "1001122334",
+    "nombre": "Jorge Enrique Martínez",
+    "area": 15.7,
+    "cultivo": "Papa Suprema",
+    "inversion": 12000,
+    "fecha": "2026-05-10",
+    "ubicacion_cultivo": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-75.2231, 6.1120],
+          [-75.2218, 6.1120],
+          [-75.2218, 6.1135],
+          [-75.2231, 6.1135],
+          [-75.2231, 6.1120]
+        ]
+      ]
+    }
+  }
+]
