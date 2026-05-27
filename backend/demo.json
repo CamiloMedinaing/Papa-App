@@ -1,0 +1,6 @@
+Guardar dato s 
+
+Yo como administrador necesito una API que reciban un json con los datos 
+de un agricultor y los guarde en una base de datos postgresql
+
+1. Crear un backen en python
